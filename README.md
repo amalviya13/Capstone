@@ -23,3 +23,5 @@ Citations:
 5. Bishop, C. M. (2006). Pattern recognition and machine learning. Springer.
 
 6. Shalev-Shwartz, S., & Ben-David, S. (2014). Understanding machine learning: From theory to algorithms. Cambridge University Press.
+
+7. “Celebrity API.” Celebrity API - API Ninjas, https://api-ninjas.com/api/celebrity. 
