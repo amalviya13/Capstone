@@ -25,3 +25,9 @@ Citations:
 6. Shalev-Shwartz, S., & Ben-David, S. (2014). Understanding machine learning: From theory to algorithms. Cambridge University Press.
 
 7. “Celebrity API.” Celebrity API - API Ninjas, https://api-ninjas.com/api/celebrity. 
+
+8. "How Data Science is Transforming the Film Industry." upGrad, 22 Oct. 2020, https://www.upgrad.com/blog/how-data-science-is-transforming-the-film-industry/#:~:text=Data%20Science%20in%20Film%20Industry,-Data%20Analytics%20is&text=Predictive%20Analytics%20can%20help%20filmmakers,%2C%20take%20data%2Doriented%20decisions.
+
+9. "Datawatch: Lights, Camera, Analytics! The Secret Role Data Plays in Movie Making." The Smart Cube, 28 Aug. 2019, https://www.thesmartcube.com/resources/blog/datawatch-lights-camera-analytics-the-secret-role-data-plays-in-movie-making/.
+
+10. Han, X., & Shen, J. (2020). Predicting movie success with machine learning techniques. Journal of Big Data, 7(1), 1-23. doi: 10.1186/s40537-019-0258-6. https://pure.coventry.ac.uk/ws/portalfiles/portal/11062379/author_revision_copy_Predicting_Movie_Success_with_Machine_Learning_Te....pdf
