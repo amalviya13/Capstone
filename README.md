@@ -2,7 +2,7 @@
 
 This repository contains five Jupyter notebooks for combining data from Kaggle and the API-Ninjas Celebrity API, performing exploratory analysis, and building various machine learning models to predict net worth. The notebooks are named:
 
-1. Building Net Worth CSV.ipynb: This notebook combines financial data from Kaggle and Ninja's financial app to create a master CSV file for analysis.
+1. Building Net Worth CSV.ipynb: This notebook combines financial data from Kaggle and Ninja's financial app that we export then to modify and create the master final_dataset CSV file for analysis.
 2. Exploratory Analysis.ipynb: This notebook contains exploratory data analysis (EDA) for the net worth data. It includes visualizations and statistics to understand the distribution and relationship between variables.
 3. Linear_regression.ipynb: This notebook contains a linear regression model for predicting net worth based on a set of features.
 4. Random Forest Model.ipynb: This notebook contains a random forest regression model for predicting net worth based on a set of features.
