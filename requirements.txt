@@ -1,8 +1,7 @@
-Required Libraries
-
-requests
-pandas
-seaborn
-numpy
-matplotlib
-sklearn
+matplotlib==3.4.3
+numpy==1.21.3
+pandas==1.3.3
+requests==2.26.0
+scikit-learn==1.0.1
+scipy==1.7.1
+seaborn==0.11.2
