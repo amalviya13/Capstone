@@ -1,0 +1,8 @@
+Required Libraries
+
+requests
+pandas
+seaborn
+numpy
+matplotlib
+sklearn
